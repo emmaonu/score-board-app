@@ -28,7 +28,7 @@ h1{
     padding: 50px;
     margin-top: 50px;
     margin-bottom: 20px;
-    background: #219ebc;
+    background-image: linear-gradient(#FF1F01, #FFC700);
     border-radius: 10px;
     /* height: 100vh; */
 }
