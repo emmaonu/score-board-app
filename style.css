@@ -43,6 +43,7 @@ button{
     background: #1A2980;
     color: white;
     font-weight: 300;
+    margin-left: 10px;
 }
 
 .buttons{
@@ -65,7 +66,6 @@ button{
 }
 
 .home, .guest{
-    width: 200px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -76,6 +76,7 @@ button{
     margin-bottom: 40px;
     margin-right: 30px;
     margin-top: 10px;
+    padding: 20px 40px;
     color: red;
 }
 
