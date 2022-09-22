@@ -18,6 +18,7 @@ h1{
     font-size: 2rem;
     font-family: 'Courier New', Courier, monospace;
     letter-spacing: .6rem;
+    color: white;
 }
 
 .container{
@@ -27,7 +28,7 @@ h1{
     padding: 50px;
     margin-top: 50px;
     margin-bottom: 20px;
-    background-image: linear-Gradient(#1A2980, #26D0CE);
+    background: #00F5D4;
     border-radius: 10px;
     /* height: 100vh; */
 }
