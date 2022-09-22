@@ -50,6 +50,7 @@ button{
     justify-content: space-evenly;
     align-items: center;
     width: 100px;
+    margin-bottom: 40px;
 }
 
 #point-1{
@@ -63,16 +64,17 @@ button{
     font-family: 'Lato', sans-serif
 }
 
-#home-score, #guest-score{
+.home, .guest{
     width: 200px;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     background: #1A2980;
     font-size: 100px;
     border-radius: 10px;
-    margin-bottom: 10px;
-    margin-right: 10px;
+    margin-bottom: 40px;
+    margin-right: 30px;
     margin-top: 10px;
     color: red;
 }
