@@ -23,14 +23,15 @@ h1{
 
 .container{
     display: flex;
-    justify-content: space-between;
-    padding: 40px;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 50px 10px 50px;
     margin-top: 50px;
     margin-bottom: 20px;
     background-image: linear-Gradient(#1A2980, #26D0CE);
     border-radius: 10px;
     width: 40%;
-    min-height: 100vh;
+    /* height: 100vh; */
 }
 
 button{
