@@ -69,7 +69,7 @@ button{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image:linear-Gradient(#1A2980, #26D0CE);
+    background-image: linear-Gradient(#1A2980, #26D0CE);
     font-size: 100px;
     border-radius: 10px;
     margin-bottom: 30px;
