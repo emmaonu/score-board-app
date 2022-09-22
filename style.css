@@ -30,7 +30,7 @@ h1{
     margin-bottom: 20px;
     background-image: linear-Gradient(#1A2980, #26D0CE);
     border-radius: 10px;
-    width: 40%;
+    max-width: 60%;
     /* height: 100vh; */
 }
 
@@ -49,7 +49,7 @@ button{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    width: 200px;
+    width: 100px;
 }
 
 #point-1{
@@ -64,11 +64,12 @@ button{
 }
 
 #home-score, #guest-score{
+    width: 100px;
     display: flex;
     justify-content: center;
     align-items: center;
     background: #1A2980;
-    font-size: 150px;
+    font-size: 100px;
     border-radius: 10px;
     margin-bottom: 10px;
     margin-right: 10px;
