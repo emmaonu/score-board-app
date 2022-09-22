@@ -93,8 +93,4 @@ button{
         justify-content: center;
         align-items: center;
     }
-
-    #home-score, #guest-score{
-        width: 100px;
-}
 }
